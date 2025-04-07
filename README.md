@@ -2,7 +2,7 @@
 
 A collection of simple browser games built with React and Tailwind CSS.
 
-#you can also see how it works in real time just by this link
+##  can also see how it works in real time just by this link
 https://premkanth-minigameshub.netlify.app/
 
 ## Games Included
