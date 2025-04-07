@@ -1,0 +1,3 @@
+@echo off
+echo Starting Mini Game Hub development server...
+call npm start
